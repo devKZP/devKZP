@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devKZP
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning: TBD
+- 🌱 I’m currently learning: How to use GitHub
 - 💞️ I’m looking to collaborate on TBD
 - 📫 How to reach me: TBD
 
