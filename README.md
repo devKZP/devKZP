@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @devKZP
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning: How to use GitHub
-- 💞️ I’m looking to collaborate on TBD
-- 📫 How to reach me: TBD
+-
 
 <!---
 devKZP/devKZP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
