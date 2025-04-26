@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @devKZP
--
-
-<!---
-devKZP/devKZP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I'm passionate about the potential of AI to transform the way we live and work.
+- Currently, I’m exploring Generative AI.
