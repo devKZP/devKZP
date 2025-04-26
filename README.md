@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @devKZP
-- I'm passionate about the potential of AI to transform the way we live and work.
-- Currently, I’m exploring Generative AI.
+- 🤖 I'm passionate about how AI can reshape the way we live and work. Right now, I'm diving deep into Generative AI.
